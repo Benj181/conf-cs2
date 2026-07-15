@@ -1,0 +1,12 @@
+# Ignore all files and folders
+*
+
+# Exception: Include the .gitignore file itself
+!.gitignore
+
+# Exception: Include a specific file
+!autoexec.cfg
+!cfgprac.cfg
+!config.cfg
+!cfg5v5prac.cfg
+!cfg1v1.cfg
